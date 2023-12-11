@@ -1,0 +1,19 @@
+.header{
+    display: flex;
+    margin: 10px auto;
+    padding: 20px;
+    box-sizing: border-box;
+    width: 100vw;
+    justify-content: center;
+}
+
+.headerLink{
+    padding: 0px 20px 0px 20px;
+    color: blue;
+    font-size: 20px;
+    
+}
+.headerLink:hover{
+    color: brown;
+    
+}
